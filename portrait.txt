@@ -1,0 +1,19 @@
+
+
+            ___________
+           /           \
+          /             \
+         |   ===    ==   |
+        C|    O     O    |C
+         |               |
+         |               |
+          \        >    /
+           |           |
+           | MMMMMMMMM |
+           |   -----   |
+            \  MMMMM  /
+             \__MMM__/
+                MMM
+
+December 5, 2021
+L. Da Vinci
